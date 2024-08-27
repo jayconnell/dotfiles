@@ -1,0 +1,5 @@
+require("jay.opts")
+require("jay.autocmds")
+require("jay.diag")
+require("jay.lazy")
+require("jay.remaps")
